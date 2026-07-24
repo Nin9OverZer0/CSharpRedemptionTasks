@@ -70,4 +70,7 @@ You need a free GitHub account so you can create private repositories and share 
 
 ---
 
+
+→ - **[Visual Studio Setup](../VisualStudio/Setup.md)**
+
 ← **[Return to Preparation](../../README.md#preparation--install-the-tools-first)**
