@@ -70,6 +70,34 @@ You need a free GitHub account so you can create private repositories and share 
 
 ---
 
+## Step 5: Download and Run the Git Setup Batch File
+
+1. Go to this link:  
+   [https://github.com/Nin9OverZer0/CSharpRedemptionTasks/blob/master/Setup/BatchFiles/GitCommands/000_GitSetup.bat](https://github.com/Nin9OverZer0/CSharpRedemptionTasks/blob/master/Setup/BatchFiles/GitCommands/000_GitSetup.bat)
+
+![Git Setup Batch File](./Images/026.png)
+
+2. Download the file.
+
+![Git Setup Batch File](./Images/026.png)
+
+3. Double-click the downloaded file to run it.
+
+![Git Setup Batch File](./Images/027.png)
+
+if this screen open click Run i wrote the batch file
+
+![Git Setup Batch File](./Images/028.png)
+
+4. When asked:
+   - Enter a **username** 
+   - Enter a **valid email address**
+
+![Git Setup Batch File](./Images/029.png)
+![Git Setup Batch File](./Images/030.png)
+![Git Setup Batch File](./Images/031.png)
+
+5. Press Enter. The window will close automatically when it is finished.
 
 → - **[Visual Studio Setup](../VisualStudio/Setup.md)**
 
