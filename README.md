@@ -48,6 +48,6 @@ Follow these two guides **before** you start any of the tutorials:
 
 - **[Git Setup](./Setup/Git/Setup.md)**
 - **[Visual Studio Setup](./Setup/VisualStudio/Setup.md)**
-- **[Project Creation Batch File](./Setup/VisualStudio/Setup.md)**
+- **[Project Creation Batch File](./Setup/ProjectCreation/Setup.md)**
 
 Once both are installed you are ready to continue.
