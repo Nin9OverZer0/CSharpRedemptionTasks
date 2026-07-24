@@ -69,6 +69,18 @@ It will automatically create the full folder structure for all the lessons and a
 
 ![Run the batch file](./Images/005.png)
 
+You will get a warning, click **Run** I wrote the file it is safe.
+
+![Run the batch file](./Images/006.png)
+
+Press any key and the window will close, this has created the folders for the project and added a file to each folder that will be used to send me your work.
+
+![Run the batch file](./Images/007.png)
+
+You will now have two new folders populated with multiple folders inside one for each tutorial.
+
+![Run the batch file](./Images/008.png)
+
 ---
 
 ## Done
@@ -76,5 +88,7 @@ It will automatically create the full folder structure for all the lessons and a
 Your project folders are now ready.
 
 You can return to the main page:
+
+→ - **[Lesson Setup](../Lesson/Setup.md)**
 
 ← **[Return to Preparation](../../README.md#preparation--install-the-tools-first)**
